@@ -141,4 +141,4 @@ Using a temporary JSON file also avoids quoting and escaping issues that can occ
 
 ## License
 
-If you plan to publish the repository publicly, consider adding a standard license such as the MIT License.
+.
